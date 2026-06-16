@@ -1,0 +1,17 @@
+export const ASSETS = {
+  earthOrbit: '/assets/earth-orbit.png',
+  sumitPhoto: '/assets/sumit-photo.png',
+  salaryhubDashboard: '/assets/salaryhub-dashboard.png',
+  salaryhubSalary: '/assets/salaryhub-salary.png',
+  ashokaDashboard: '/assets/ashoka-dashboard.png',
+  ashokaBill: '/assets/ashoka-bill.png',
+  ashokaHero: '/assets/ashoka-hero.png',
+  ashokaRooms: '/assets/ashoka-rooms.png',
+  ashokaMenu: '/assets/ashoka-menu.png',
+  gamesHero: '/assets/games-hero.png',
+  gamesSelect: '/assets/games-select.png',
+  rewards: '/assets/rewards.png',
+  holyheartHome: '/assets/holyheart-home.png',
+  holyheartFacilities: '/assets/holyheart-facilities.png',
+  holyheartContact: '/assets/holyheart-contact.png',
+} as const;
